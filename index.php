@@ -10,5 +10,8 @@ ceci est la page index
 <p>
 ceci est la page index ligne 2
 </p>
+<p>
+ceci est la page index ligne 2
+</p>
 </body>
 </html>
